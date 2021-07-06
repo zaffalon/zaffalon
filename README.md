@@ -45,9 +45,9 @@ Hi, I'm Murilo 💻.
 
 
 <p align="center">
-<a href="https://github.com/vzaffalon">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vzaffalon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vzaffalon&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/zaffalon">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zaffalon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zaffalon&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
